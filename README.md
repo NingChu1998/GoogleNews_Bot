@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 #### Running the application
 ```
-Run the main.py
+Run the googlenewsbot.py
 ```
 
 #### Imput
