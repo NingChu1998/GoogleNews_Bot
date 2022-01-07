@@ -1,0 +1,26 @@
+--------------------1--------------------
+Title:
+ Tesla's Model 3 was the UK's second most popular new car in 2021 - CNBC
+Read more:
+ https://www.cnbc.com/2022/01/06/teslas-model-3-was-the-uks-second-most-popular-new-car-in-2021.html
+Sentiment:
+ positive
+Summary:
+ LONDON — A record 190,727 new battery electric cars were registered in the U.K. last year, according to figures released on Thursday, with Tesla's Model 3 the best-selling battery electric model.
+The vehicle was the second most popular new car overall, according to Society of Motor Manufacturers and Traders, behind the Vauxhall Corsa.
+It said that more new battery electric vehicles had been registered in 2021 than over the five previous years combined.
+The last 12 months also saw 114,554 new plug-in hybrid cars take to Britain's roads, while 147,246 hybrid electric cars were also registered.
+Plug-in hybrid vehicles can be filled with gas in the normal way and also plugged in to charge.
+--------------------2--------------------
+Title:
+ Can Tesla Profit From Its Insurance Business? - Investopedia
+Read more:
+ https://www.investopedia.com/tesla-insurance-business-profitability-5215165
+Sentiment:
+ positive
+Summary:
+ Tesla CEO Elon Musk has said that the insurance arm could be as big as 30% to 40% of the company's car business.
+Tesla’s Car Insurance BusinessWith a worth of $288.4 billion and average annual growth rates of 2.7% in the past five years, auto insurance is an attractive industry.
+Tesla entered the business in 2019 in California as a broker for policies underwritten by State National Insurance Company.
+Tesla's insurance business is not expected to pose a major threat to incumbents in the insurance industry, at least initially.
+Immediately after launch, the Tesla insurance registration site crashed, leading to complaints from those attempting to sign up for it.
