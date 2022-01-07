@@ -36,9 +36,15 @@ pip install -r requirements.txt
 Run the googlenewsbot.py
 ```
 
-#### Imput
-
 ---
-#### Output
+## Imput
+- Example: Serach "ADA" coin related news
 
----
+![](https://github.com/NingChu1998/GoogleNews_Bot/blob/main/demo.gif?raw=true)
+
+## Output
+- Example: Search "Tesla" related news and its outcome files
+
+<img src ="https://github.com/NingChu1998/GoogleNews_Bot/blob/main/googlenewbot_txt.png" alt="Cover" width="40%"/>
+<img src ="https://github.com/NingChu1998/GoogleNews_Bot/blob/main/googlenewsbot_csv.png" alt="Cover" width="50%"/>
+
