@@ -37,7 +37,7 @@ Run the googlenewsbot.py
 ```
 
 ---
-## Imput
+## Input
 - Example: Serach "ADA" coin related news
 
 ![](https://github.com/NingChu1998/GoogleNews_Bot/blob/main/demo.gif?raw=true)
